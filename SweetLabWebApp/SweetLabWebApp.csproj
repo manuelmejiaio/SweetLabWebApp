@@ -352,7 +352,6 @@
     <Content Include="assets\fonts\moon_flower_bold-webfont.ttf" />
     <Content Include="assets\fonts\moon_flower_bold-webfont.woff" />
     <Content Include="assets\fonts\moon_flower_bold-webfont.woff2" />
-    <Content Include="assets\javascripts\jpreloader\.DS_Store" />
     <Content Include="assets\stylesheets\less\font-family.less" />
     <Content Include="assets\stylesheets\less\global.less" />
     <Content Include="assets\stylesheets\less\style.less" />
