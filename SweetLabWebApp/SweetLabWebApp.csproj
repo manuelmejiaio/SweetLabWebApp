@@ -337,7 +337,6 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Content\bootstrap.css.map" />
-    <Content Include="assets\.DS_Store" />
     <Content Include="assets\fonts\custom-font.eot" />
     <Content Include="assets\fonts\custom-font.ttf" />
     <Content Include="assets\fonts\custom-font.woff" />
@@ -354,8 +353,6 @@
     <Content Include="assets\fonts\moon_flower_bold-webfont.woff" />
     <Content Include="assets\fonts\moon_flower_bold-webfont.woff2" />
     <Content Include="assets\javascripts\jpreloader\.DS_Store" />
-    <Content Include="assets\stylesheets\.DS_Store" />
-    <Content Include="assets\stylesheets\css\.DS_Store" />
     <Content Include="assets\stylesheets\less\font-family.less" />
     <Content Include="assets\stylesheets\less\global.less" />
     <Content Include="assets\stylesheets\less\style.less" />
