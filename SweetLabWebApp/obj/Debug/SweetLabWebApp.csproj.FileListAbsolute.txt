@@ -105,6 +105,5 @@ C:\Users\Manuel Mejia\Documents\Visual Studio 2013\Projects\SweetLabWebApp\Sweet
 C:\Users\Manuel Mejia\Documents\Visual Studio 2013\Projects\SweetLabWebApp\SweetLabWebApp\bin\System.Web.WebPages.xml
 C:\Users\Manuel Mejia\Documents\Visual Studio 2013\Projects\SweetLabWebApp\SweetLabWebApp\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Manuel Mejia\Documents\Visual Studio 2013\Projects\SweetLabWebApp\SweetLabWebApp\bin\System.Web.WebPages.Razor.xml
-C:\Users\Manuel Mejia\Documents\Visual Studio 2013\Projects\SweetLabWebApp\SweetLabWebApp\obj\Debug\SweetLabWebApp.csprojResolveAssemblyReference.cache
 C:\Users\Manuel Mejia\Documents\Visual Studio 2013\Projects\SweetLabWebApp\SweetLabWebApp\obj\Debug\SweetLabWebApp.dll
 C:\Users\Manuel Mejia\Documents\Visual Studio 2013\Projects\SweetLabWebApp\SweetLabWebApp\obj\Debug\SweetLabWebApp.pdb

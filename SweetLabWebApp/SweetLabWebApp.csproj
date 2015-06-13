@@ -353,8 +353,6 @@
     <Content Include="assets\fonts\moon_flower_bold-webfont.ttf" />
     <Content Include="assets\fonts\moon_flower_bold-webfont.woff" />
     <Content Include="assets\fonts\moon_flower_bold-webfont.woff2" />
-    <Content Include="assets\images\.DS_Store" />
-    <Content Include="assets\images\Thumbs.db" />
     <Content Include="assets\javascripts\.DS_Store" />
     <Content Include="assets\javascripts\jpreloader\.DS_Store" />
     <Content Include="assets\stylesheets\.DS_Store" />
