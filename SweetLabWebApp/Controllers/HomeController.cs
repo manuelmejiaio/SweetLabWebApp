@@ -13,7 +13,7 @@ namespace SweetLabWebApp.Controllers
             return View();
         }
 
-        public ActionResult Tienda()
+        public ActionResult Productos()
         {
             ViewBag.Message = "Your contact page.";
 
