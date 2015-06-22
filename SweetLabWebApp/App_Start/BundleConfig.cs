@@ -42,6 +42,10 @@ namespace SweetLabWebApp
                       "~/assets/javascripts/fancybox/jquery.fancybox.css",
                       "~/assets/stylesheets/css/global.css",
                       "~/assets/stylesheets/css/effect2.css"));
+
+            BundleTable.EnableOptimizations = false;
         }
+
+
     }
 }
