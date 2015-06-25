@@ -33,5 +33,12 @@ namespace SweetLabWebApp.Controllers
 
             return View();
         }
+
+        public ActionResult Construccion()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
     }
 }
