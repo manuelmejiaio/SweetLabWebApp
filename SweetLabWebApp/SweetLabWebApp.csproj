@@ -229,6 +229,7 @@
     <Content Include="assets\images\cakes-co.jpg" />
     <Content Include="assets\images\cakes-co1.jpg" />
     <Content Include="assets\images\cakes-co2.jpg" />
+    <Content Include="assets\images\carousel\base.png" />
     <Content Include="assets\images\carousel\c1.png" />
     <Content Include="assets\images\carousel\c2.png" />
     <Content Include="assets\images\carousel\c3.png" />
@@ -250,6 +251,11 @@
     <Content Include="assets\images\dot-purple-1.png" />
     <Content Include="assets\images\dot-purple.png" />
     <Content Include="assets\images\dot-purples.png" />
+    <Content Include="assets\images\eventos\evento1\e1.png" />
+    <Content Include="assets\images\eventos\evento1\e2.png" />
+    <Content Include="assets\images\eventos\evento1\e3.png" />
+    <Content Include="assets\images\eventos\evento1\e4.png" />
+    <Content Include="assets\images\eventos\evento1\e5.png" />
     <Content Include="assets\images\favicon-32x32.png" />
     <Content Include="assets\images\gel-1.jpg" />
     <Content Include="assets\images\gel-2.jpg" />
